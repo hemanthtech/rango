@@ -14,7 +14,7 @@ permalink: /
 # PROJECT Rango
 
 ##  Welcome
-* Location: 0.0.0.0
+* Location: 127.0.0.1
 * Identity: Unknown
 * Planet: Unknown
 ## Download This Project
