@@ -5,13 +5,13 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: "Hell Riser"
-author: "Hell-Riser"
+title: "Rango"
+author: "Rango"
 encrypted_text: false
 permalink: /
 ---
 
-# PROJECT Hell-Riser
+# PROJECT Rango
 
 ##  Welcome
 * Location: 0.0.0.0
@@ -21,5 +21,4 @@ permalink: /
 ## Download This Project
 * Make Change's in _config.yml file.
 
-*  [**HellRiser (Github)**](https://github.com/Hell-Riser/hellriser)
-
+*  [**HellRiser (Github)**](https://hemanthtech.github.io/rango)
