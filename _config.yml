@@ -1,0 +1,21 @@
+## Settings
+title: project-Hell
+owner: "Hell Riser"
+url: "https://hell-riser.github.io"
+baseurl: "/hellriser"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "hellriser@tuta.io"
+github: "Hell-Riser/hellriser"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by HellRiser, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
