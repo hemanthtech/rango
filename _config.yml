@@ -1,8 +1,8 @@
 ## Settings
 title: project-Rango
 owner: "Hemanth Kumar"
-url: "https://hell-riser.github.io"
-baseurl: "/hellriser"
+url: "https://github.com/hemanthtech/"
+baseurl: "/rango"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,11 +10,11 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "hellriser@tuta.io"
-github: "Hell-Riser/hellriser"
+email: "admin@hemanth.tech"
+github: "hemanthtech/rango"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by HellRiser, All Rights Reserved"
+statement: "Designed by Hemanth Tech, All Rights Reserved"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
