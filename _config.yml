@@ -2,7 +2,7 @@
 title: project-Rango
 owner: "Hemanth Kumar"
 url: "https://hell-riser.github.io"
-baseurl: "/hellriser"
+baseurl: "/rango"
 permalink: /:title/
 description: ""
 markdown: kramdown
