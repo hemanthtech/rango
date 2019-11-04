@@ -1,7 +1,7 @@
 ## Settings
 title: project-Rango
 owner: "Hemanth Kumar"
-url: "https://hemanthtech.github.io/"
+url: "https://hemanthtech.github.io"
 baseurl: "/Rango/"
 permalink: /:title/
 description: ""
