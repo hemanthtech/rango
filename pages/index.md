@@ -21,4 +21,4 @@ permalink: /
 ## Download This Project
 * Make Change's in _config.yml file.
 
-*  [**HellRiser (Github)**](https://hemanthtech.github.io/rango)
+*  [**Rango (Github)**](https://hemanthtech.github.io/rango)
