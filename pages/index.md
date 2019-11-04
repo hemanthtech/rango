@@ -17,8 +17,7 @@ permalink: /
 * Location: 0.0.0.0
 * Identity: Unknown
 * Planet: Unknown
-* Now If You'll Excuse Me. I Have Got A Little Hell To Rise.
 ## Download This Project
 * Make Change's in _config.yml file.
 
-*  [**Rango (Github)**](https://hemanthtech.github.io/rango)
+*  [**Rango (Github)**](https://github.com/hemanthtech/rango)
