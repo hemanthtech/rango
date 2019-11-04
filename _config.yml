@@ -11,7 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "admin@hemanth.tech"
-github: "Hell-Riser/hellriser"
+github: "hemanthtech/rango"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by Hemanth Tech, All Rights Reserved"
